@@ -1,4 +1,4 @@
-## 🚀 I'm [Sara Yasser Habib]
+## 🚀 I'm Sara Yasser Habib
 👨‍💻 Software Engineer | Data Scientist
 
 - 🔍 Passionate about AI, Machine Learning, and Scientific Computing
