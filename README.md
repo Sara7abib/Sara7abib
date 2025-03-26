@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🚀 I'm [Sara Yasser Habib]
+👨‍💻 Software Engineer | Data Scientist
 
-<!--
-**Sara7abib/Sara7abib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Passionate about AI, Machine Learning, and Scientific Computing
+- 🎯 Currently studying at Ain Shams University - Scientific Computing
+- 📊 Skilled in Python, Data Analysis,and Algorithm Design
+---
+🛠️ Tech Stack
+- *Programming:* Python, C++, Java, SQL , c# , HTML , css
+- *Machine Learning:* Scikit-Learn, TensorFlow, PyTorch
+- *Data Science:* Pandas, NumPy, Matplotlib, Seaborn
+- *Development Tools:* Git, Docker, Linux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+## Most used Languages
+![langs_count](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara7abib&layout=compact&theme=radical&langs_count=10)
